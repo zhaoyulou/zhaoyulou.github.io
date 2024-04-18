@@ -6,17 +6,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hello! 
+
 I'm Zhaoyu Lou, currently a junior student from the School of Physics and Technology of Wuhan University, China. My research interests mainly focus on the Semiconductor Physics and Device Physics, especially perovskite solar cells (PSCs). Besides, I am also have a basic command of experimental expertise about fabricating perovskite solar cells. Currently, I am studying at [Zhiping Wang](https://physics.whu.edu.cn/info/1181/5267.htm)'s group as an undergraduate student. I have joined in this group for two years and our group acknowledge the first-class technology to fabricate stable and efficient perovskite solar cells. Besides the experimental part, our group also has students focused on device physics.
 
+For me, I prefere the research about charge transport process to fabrication of PSCs. 
 
 Resent Activitise
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+------
+Resently, I'm at the end of a project about simulation of perovskite thermoelectric tandem device and in the process of finishing a paper entitled "The potential of perovskite solar cell-thermoelectric tandem devices" on this topic.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I will attend the meeting [IUMRS-ICEM 2024](https://hkmrs.org/iumrs-icem2024/index.html) held in Hong Kong from 17th May to 20th May. It's a pity that I missed the deadline to submit my abstract.
+
+It's a great pleasure for me to be invited to participate in the [73rd Lindau Nobel Laureate Meetings](https://www.lindau-nobel.org/) as one of the only 8 domestic undergraduate students.
+
+It's a great pleasure for me to participate in the project "Decouple all Major Recombination Losses to Degradation" under guidance of [Prof. Martin Stolterfoht] in CUHK from 10th JUly to 10th Sep. I am really looking forward to it!
 
 Major Honor
-======
+------
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
@@ -25,10 +32,10 @@ Major Honor
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Research Experience
-======
+------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Publishes Paper
+Published Paper
 ======
 
 Create content & metadata
