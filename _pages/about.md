@@ -20,7 +20,7 @@ I will attend the meeting [IUMRS-ICEM 2024](https://hkmrs.org/iumrs-icem2024/ind
 
 It's a great pleasure for me to be invited to participate in the [73rd Lindau Nobel Laureate Meetings](https://www.lindau-nobel.org/) as one of the only 8 domestic undergraduate students.
 
-It's a great pleasure for me to participate in the project "Decouple all Major Recombination Losses to Degradation" under guidance of [Prof. Martin Stolterfoht] in CUHK from 10th JUly to 10th Sep. I am really looking forward to it!
+It's a great pleasure for me to participate in the project "Decouple all Major Recombination Losses to Degradation" under guidance of [Prof. Martin Stolterfoht](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-stolterfoht-martin) in CUHK from 10th JUly to 10th Sep. I am really looking forward to it!
 
 Major Honor
 ------
