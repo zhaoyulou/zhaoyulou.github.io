@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Student"
+title                    : "Zhaoyu Lou Homepage"
 title_separator          : "-"
-name                     : "ZHaoyu Lou"
-description              : "personal description"
-url                      : "https://zhaoyulou.github.io/"
+name                     : &name "ZHaoyu Lou"
+description              : &description "personal description"
+url                      : https://zhaoyulou.github.io
 baseurl                  : "https://zhaoyulou.github.io/"
 repository               : "https://github.com/zhaoyulou/zhaoyulou.git"
 
