@@ -25,7 +25,7 @@ author:
   name             : "Zhaoyu Lou"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Wuhan, China"
+  location         : &location "Wuhan, China"
   employer         : "Wuhan University"
   uri              : # URL
   email            : "zhaoyulou@outlook.com" "2021302022010@whu.edu.cn" "1802750277@qq.com"
