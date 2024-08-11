@@ -1,49 +1,74 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello, this is Zhaoyu Lou, currently studying in School of Physics and Technology at Wuhan University (China Mainland) as an undergraduate student. I am extremely fortunate to be advised by Zhiping Wang (王植平-武汉大学物理科学与技术学院 (whu.edu.cn)) and Martin Stolterfoht (Electronic Engineering Department, The Chinese University of Hong Kong (cuhk.edu.hk)), for my undergraduate research and summer research respectively. You can find my CV (cv document) here.
 
-A data-driven personal website
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My current research focuses on the light management and aging process of perovskite solar cells. For my light management project, funded by Nature Science Foundation of China (news from university{15位入选！国家自然科学基金首次资助优秀本科生-武汉大学新闻网 (whu.edu.cn)}), aimed to reduce optical loss in perovskite based device and build up relate simulation model. And another project is about to investigate the role of mobile ions and shallow traps in frequency dependent PCE. In a word, simulation, characterization, fabrication of perovskite solar cells and relate semiconductor technology, with a focus on physics aspect. I wish I can devote my talent in this area and application of such a promising technology.  
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Educational Background
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+School of Physics and Technology, Wuhan University{}			    Wuhan, China
+Bachelor of Science                                      09/2021-06/2025
+Zhejiang Dongyang High School								Dongyang, China
+High School													09/2018-06/2021
 
-Site-wide configuration
+Scholarships & Awards & Funded Project
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Funded Project:
+Research on Transparent Conducting Electrodes and Optical Coupling Layer for Efficient and Stable Four-Terminal Perovskite Tandem Solar Cells  2023-2025
+Project funded by NSFC{ 国家自然科学基金委员会 > 首页 (nsfc.gov.cn) }, ￥100,000
+Scholarship:   
+China National Scholarship 2021-2022
+Chasing Dreams Scholarship 2022-2023
+First Class Scholarship in Wuhan University 2021-2022
+Second Class Scholarship in Wuhan University 2022-2023 
 
-Create content & metadata
+Awards: 
+Excellent Student 2021-2022
+Excellent Student 2022-2023
+Second Prize (provincial) in The Chinese Mathematics Competitions, 2022
+Excellent Award in the China Undergraduate Physics Tournament, 2023
+
+Invited Visits & Conference:
+
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+73rd Lindau Nobel Laureate Meeting (Physics)                            Germany
+06/2024-07/2025
+Chosen as one of the only 8 domestic undergraduate students by Sino-German Center for Research Promotion to attend the Lindau Nobel Laureate Meetings in Germany, and invited to visit University of Bonn, DFG (Deutsche Forschungsgemeinschaft), Kaiserslautern University of Technology, University of Tübingen, Ludwig Maximilian University of Munich.
 
-**Markdown generator**
+International Union of Materials Research Societies 18th International Conference on Electronic Materials 2024 (IUMRS-ICEM 2024)                     Hong Kong, China
+																	   04/2024
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
+Research Experience:
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Research on the Transparent Electrodes and Coupling Layers in Efficient and Stable Four-terminal Perovskite Tandem Solar Cells                                                                                                                              	Wuhan, China
+Project Principal, Funded by National Natural Science Foundation of China (623B1006),￥100,000                                                       06/2023-present     
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Decouple the Mobile Ions Induced Loss and Shallow Traps Induced Loss during the degradation of Perovskite Solar Cells                                                                                                                      	Hong Kong, China
+Research Assistant at CUHK under the guidance of Prof. Martin Stolterfoht                                                        07/2024-09/2024
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Simulation on the EQE and Efficiency Limit of all-Perovskite Tandem Devices and Contribute to Fabricate Perovskite Tandems with High Efficiency                                                                                                                                  Wuhan, China	
+	01/2023-02/2023 & 05/2024
+
+Simulation and Discussion of Working Performance of Perovskite Thermoelectric Tandem Devices under Real World Condition                                                                                                                                                                     Wuhan, China	
+	09/2023-04/2024
+
+Evaluation of the Underwater Stability of Encapsulated Perovskite Solar Cells                                                 Wuhan, China	
+	03/2023-05/2023
+
+Explanation for the Phenomenon of Colored Lines Appearing on the Surface of a Disc under White Light Illumination and Exploration of the Influencing Factors                                                                                                             Wuhan, China	
+Team leader, China Undergraduate Physics Tournament                                                                                     03/2023-04/2023
+
+Blade-Coating Large-Area Perovskite Solar Cells                                                                                                 Wuhan, China
+	06/2022-12/2022
+
+
