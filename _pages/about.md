@@ -15,60 +15,7 @@ My current research focuses on the light management and aging process of perovsk
 
 Educational Background
 ======
-School of Physics and Technology, Wuhan University{}			    Wuhan, China
-Bachelor of Science                                      09/2021-06/2025
-Zhejiang Dongyang High School								Dongyang, China
-High School													09/2018-06/2021
-
-Scholarships & Awards & Funded Project
-------
-Funded Project:
-Research on Transparent Conducting Electrodes and Optical Coupling Layer for Efficient and Stable Four-Terminal Perovskite Tandem Solar Cells  2023-2025
-Project funded by NSFC{ 国家自然科学基金委员会 > 首页 (nsfc.gov.cn) }, ￥100,000
-Scholarship:   
-China National Scholarship 2021-2022
-Chasing Dreams Scholarship 2022-2023
-First Class Scholarship in Wuhan University 2021-2022
-Second Class Scholarship in Wuhan University 2022-2023 
-
-Awards: 
-Excellent Student 2021-2022
-Excellent Student 2022-2023
-Second Prize (provincial) in The Chinese Mathematics Competitions, 2022
-Excellent Award in the China Undergraduate Physics Tournament, 2023
-
-Invited Visits & Conference:
-
-------
-73rd Lindau Nobel Laureate Meeting (Physics)                            Germany
-06/2024-07/2025
-Chosen as one of the only 8 domestic undergraduate students by Sino-German Center for Research Promotion to attend the Lindau Nobel Laureate Meetings in Germany, and invited to visit University of Bonn, DFG (Deutsche Forschungsgemeinschaft), Kaiserslautern University of Technology, University of Tübingen, Ludwig Maximilian University of Munich.
-
-International Union of Materials Research Societies 18th International Conference on Electronic Materials 2024 (IUMRS-ICEM 2024)                     Hong Kong, China
-																	   04/2024
-
-
-Research Experience:
-------
-Research on the Transparent Electrodes and Coupling Layers in Efficient and Stable Four-terminal Perovskite Tandem Solar Cells                                                                                                                              	Wuhan, China
-Project Principal, Funded by National Natural Science Foundation of China (623B1006),￥100,000                                                       06/2023-present     
-
-Decouple the Mobile Ions Induced Loss and Shallow Traps Induced Loss during the degradation of Perovskite Solar Cells                                                                                                                      	Hong Kong, China
-Research Assistant at CUHK under the guidance of Prof. Martin Stolterfoht                                                        07/2024-09/2024
-
-Simulation on the EQE and Efficiency Limit of all-Perovskite Tandem Devices and Contribute to Fabricate Perovskite Tandems with High Efficiency                                                                                                                                  Wuhan, China	
-	01/2023-02/2023 & 05/2024
-
-Simulation and Discussion of Working Performance of Perovskite Thermoelectric Tandem Devices under Real World Condition                                                                                                                                                                     Wuhan, China	
-	09/2023-04/2024
-
-Evaluation of the Underwater Stability of Encapsulated Perovskite Solar Cells                                                 Wuhan, China	
-	03/2023-05/2023
-
-Explanation for the Phenomenon of Colored Lines Appearing on the Surface of a Disc under White Light Illumination and Exploration of the Influencing Factors                                                                                                             Wuhan, China	
-Team leader, China Undergraduate Physics Tournament                                                                                     03/2023-04/2023
-
-Blade-Coating Large-Area Perovskite Solar Cells                                                                                                 Wuhan, China
-	06/2022-12/2022
+School of Physics and Technology, Wuhan University Wuhan, China   Bachelor of Science   09/2021-06/2025
+Zhejiang Dongyang High School Dongyang, China   High School   09/2018-06/2021
 
 
