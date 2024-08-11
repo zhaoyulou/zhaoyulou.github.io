@@ -24,9 +24,9 @@ author:
   avatar           : "zhaoyulou.png"
   name             : "Zhaoyu Lou"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Wuhan University"
   location         : "Wuhan China"
-  employer         : "Wuhan University"
+  employer         : #"Wuhan University"
   uri              : # URL
   email            : "none@example.org" 
 
