@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhaoyu Lou's Personal Homepage"
+title                    : "Zhaoyu Lou's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
