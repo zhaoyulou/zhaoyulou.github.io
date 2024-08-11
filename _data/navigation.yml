@@ -3,19 +3,19 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: #"Talks"
+  - title: "Scholarships & Awards & Funded Project"
     url: /talks/    
 
-  - title: "Besides Research"
+  - title: "Invited Visits & Conference"
     url: /teaching/    
     
-  - title: #"Portfolio"
+  - title: "Research Experience"
     url: /portfolio/
         
-  - title: #"Blog Posts"
+  - title: "Publications"
     url: /year-archive/
     
-  - title: #"CV"
+  - title: "Besides Research"
     url: /cv/
     
   - title: #"Guide"
