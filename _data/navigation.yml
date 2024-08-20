@@ -1,20 +1,17 @@
 # main links links
 main:
 
- - title: "Scholarships & Awards & Funded Project"
+  - title: "Scholarships & Awards & Funded Project"
     url: /talks/    
     
-  - title: "Publications"
-    url: /publications/
-
   - title: "Invited Visits & Conference"
     url: /teaching/    
-    
+
   - title: "Research Experience"
     url: /portfolio/
         
   - title: "Publications"
-    url: /year-archive/
+    url: /publications/
     
   - title: "Besides Research"
     url: /cv/
