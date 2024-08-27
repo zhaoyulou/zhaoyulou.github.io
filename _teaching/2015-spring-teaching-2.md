@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+title: "73rd Lindau Nobel Laureate Meeting (Physics)"
+collection: experiences
+type: "Conference"
+permalink:# /experiences/lindau-nobel-meeting
+venue: "Lindau, Germany"
+date: 2024-06-01
+location: "Germany"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Chosen as one of the only 8 domestic undergraduate students by Sino-German Center for Research Promotion to attend the Lindau Nobel Laureate Meetings in Germany. Invited to visit University of Bonn, DFG (Deutsche Forschungsgemeinschaft), Kaiserslautern University of Technology, University of Tübingen, and Ludwig Maximilian University of Munich.
+---
