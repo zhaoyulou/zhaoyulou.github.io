@@ -3,16 +3,16 @@ main:
     url: /publications/
 
   - title: "Scholarships & Awards & Funded Project"
-    url: /talks/    
+    url: /Scholarships & Awards & Funded Project/    
 
   - title: "Invited Visits & Conference"
-    url: /teaching/    
+    url: /Invited Visits & Conference/    
     
   - title: "Research Experience"
-    url: /portfolio/
+    url: /Research Experience/
         
   - title: "Besides Research"
-    url: /year-archive/
+    url: /Besides Research/
     
   - title: #"CV"
     url: /cv/
