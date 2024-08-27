@@ -3,5 +3,6 @@ title: "Invited Visits & Conference"
 date: 2012-03-01
 location: "San Francisco, California"
 ---
-Chosen as one of the only 8 domestic undergraduate students by Sino-German Center for Research Promotion to attend the Lindau Nobel Laureate Meetings in Germany, and invited to visit University of Bonn, DFG (Deutsche Forschungsgemeinschaft), Kaiserslautern University of Technology, University of Tübingen, Ludwig Maximilian University of Munich
+73rd Lindau Nobel Laureate Meeting (Physics)                            Germany
+06/2024-07/2025
 ---
