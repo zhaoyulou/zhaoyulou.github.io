@@ -1,7 +1,6 @@
 ---
-title: "Research on the Transparent Electrodes and Coupling Layers in Efficient and Stable Four-terminal Perovskite Tandem Solar Cells  "
+title: "Simulation on the EQE and Efficiency Limit of all-Perovskite Tandem Devices and Contribute to Fabricate Perovskite Tandems with High Efficiency "
 collection: portfolio
 ---
 
-Research on the Transparent Electrodes and Coupling Layers in Efficient and Stable Four-terminal Perovskite Tandem Solar Cells  
-
+Simulation on the EQE and Efficiency Limit of all-Perovskite Tandem Devices and Contribute to Fabricate Perovskite Tandems with High Efficiency 
