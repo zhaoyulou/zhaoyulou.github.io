@@ -1,6 +1,7 @@
 ---
-title: "Research on the Transparent Electrodes and Coupling Layers in Efficient and Stable Four-terminal Perovskite Tandem Solar Cells  "
+title: "Simulation and Discussion of Working Performance of Perovskite Thermoelectric Tandem Devices under Real World Condition"
 collection: portfolio
 ---
-
-Research on the Transparent Electrodes and Coupling Layers in Efficient and Stable Four-terminal Perovskite Tandem Solar Cells  
+Simulation and Discussion of Working Performance of Perovskite Thermoelectric Tandem Devices under Real World Condition                         
+Wuhan, China	
+09/2023-04/2024
