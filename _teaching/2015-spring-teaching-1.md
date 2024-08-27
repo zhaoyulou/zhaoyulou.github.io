@@ -1,8 +1,8 @@
 ---
 title: "Invited Visits & Conference 1"
-date: 2012-03-01
-location: "San Francisco, California"
+date: 2024-06
+location: "Germanya"
 ---
-73rd Lindau Nobel Laureate Meeting (Physics)                            Germany
+73rd Lindau Nobel Laureate Meeting (Physics)                            
 06/2024-07/2025
 ---
