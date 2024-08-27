@@ -11,10 +11,10 @@ main:
   - title: "Research Experience"
     url: /portfolio/
         
-  - title: "Besides Research"
+  - title: #"Besides Research"
     url: /year-archive/
     
-  - title: #"CV"
+  - title: "Besides Research"
     url: /cv/
     
   - title: #"Guide"
