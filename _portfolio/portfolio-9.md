@@ -1,6 +1,7 @@
 ---
-title: "Research on the Transparent Electrodes and Coupling Layers in Efficient and Stable Four-terminal Perovskite Tandem Solar Cells  "
+title: "Blade-Coating Large-Area Perovskite Solar Cells"
 collection: portfolio
 ---
-
-Research on the Transparent Electrodes and Coupling Layers in Efficient and Stable Four-terminal Perovskite Tandem Solar Cells  
+Blade-Coating Large-Area Perovskite Solar Cells                                                                                               
+Wuhan, China
+06/2022-12/2022
