@@ -1,6 +1,6 @@
 ---
-title: "Research on the Transparent Electrodes and Coupling Layers in Efficient and Stable Four-terminal Perovskite Tandem Solar Cells  "
+title: "Project Principal"
 collection: portfolio
 ---
 
-Research on the Transparent Electrodes and Coupling Layers in Efficient and Stable Four-terminal Perovskite Tandem Solar Cells  
+Project Principal, Funded by National Natural Science Foundation of China (623B1006),￥100,000 
