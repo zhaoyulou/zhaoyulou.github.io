@@ -1,13 +1,14 @@
 ---
-title: "Evaluation of the underwater stability of encapsulated perovskite solar cells[J], Solar Energy Materials and Solar Cells"
-collection: #publications
-permalink: #/publication/2015-10-01-paper-title-number-3
-excerpt: #'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: #'Journal 1'
-slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
-paperurl: #'http://academicpages.github.io/files/paper3.pdf'
-citation: #'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+title: "Evaluation of the underwater stability of encapsulated perovskite solar cells"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-08-27-underwater-stability-perovskite-solar-cells
+excerpt: 'This paper evaluates the underwater stability of encapsulated perovskite solar cells, focusing on long-term performance under submerged conditions.'
+date: 2024-08-27
+venue: 'Solar Energy Materials and Solar Cells'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0927024824001234'
+citation: 'Zhizhen Luo, Xueliang Zhu, Hengcheng Li, Zhaoyu Lou, Yanyan Li, Yalun Xu, Ruiming Li, Zhenglin Jia, Zhiping Wang, Qianqian Lin. (2024). &quot;Evaluation of the underwater stability of encapsulated perovskite solar cells.&quot; <i>Solar Energy Materials and Solar Cells</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper evaluates the underwater stability of encapsulated perovskite solar cells, focusing on the long-term performance of these cells under submerged conditions. The study provides insights into the degradation mechanisms and potential improvements for enhancing the durability of perovskite solar cells when exposed to underwater environments.
