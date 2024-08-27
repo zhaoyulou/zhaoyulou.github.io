@@ -1,6 +1,7 @@
 ---
-title: "Research on the Transparent Electrodes and Coupling Layers in Efficient and Stable Four-terminal Perovskite Tandem Solar Cells  "
+title: "Evaluation of the Underwater Stability of Encapsulated Perovskite Solar Cells"
 collection: portfolio
 ---
-
-Research on the Transparent Electrodes and Coupling Layers in Efficient and Stable Four-terminal Perovskite Tandem Solar Cells  
+Evaluation of the Underwater Stability of Encapsulated Perovskite Solar Cells                                                 
+Wuhan, China	
+03/2023-05/2023
