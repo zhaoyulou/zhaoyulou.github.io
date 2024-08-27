@@ -2,20 +2,20 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Scholarships & Awards & Funded Project"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Invited Visits & Conference"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Research Experience"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Besides Research"
     url: /year-archive/
     
-  - title: "CV"
+  - title: #"CV"
     url: /cv/
     
-  - title: "Guide"
+  - title: #"Guide"
     url: /markdown/
