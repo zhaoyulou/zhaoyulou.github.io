@@ -1,8 +1,7 @@
 ---
-title: "Invited Visits & Conference 1"
-date: 2024-06
+title: "73rd Lindau Nobel Laureate Meeting (Physics) "
+date: 2024-06-01
 location: "Germany"
 ---
 73rd Lindau Nobel Laureate Meeting (Physics)                            
-06/2024-07/2025
 ---
