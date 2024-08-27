@@ -1,6 +1,6 @@
 ---
-title: "Research on the Transparent Electrodes and Coupling Layers in Efficient and Stable Four-terminal Perovskite Tandem Solar Cells  "
+title: "Explanation for the Phenomenon of Colored Lines Appearing on the Surface of a Disc under White Light Illumination and Exploration of the Influencing Factors"
 collection: portfolio
 ---
-
-Research on the Transparent Electrodes and Coupling Layers in Efficient and Stable Four-terminal Perovskite Tandem Solar Cells  
+Explanation for the Phenomenon of Colored Lines Appearing on the Surface of a Disc under White Light Illumination and Exploration of the Influencing Factors                                                                                                             Wuhan, China	
+Team leader, China Undergraduate Physics Tournament                                                                                     03/2023-04/2023
