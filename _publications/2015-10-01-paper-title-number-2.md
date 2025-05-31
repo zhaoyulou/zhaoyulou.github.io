@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-08-27-perovskite-thermoelectric-tandem-devices
 excerpt: 'This paper explores the potential of tandem devices combining perovskite solar cells with thermoelectric materials to enhance energy conversion efficiency.'
 date: 2024-08-27
-venue: 'Sustainable Energy & Fuels (under revision)'
+venue: 'Sustainable Energy & Fuels'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Zhaoyu Lou, Zhiping Wang. (2024). &quot;The potential of perovskite solar cell-thermoelectric tandem devices.&quot; <i>Sustainable Energy & Fuels</i>. (under revision).'
