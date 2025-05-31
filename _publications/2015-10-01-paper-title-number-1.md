@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-08-27-underwater-stability-perovskite-solar-cells
 excerpt: 'This paper evaluates the underwater stability of encapsulated perovskite solar cells, focusing on long-term performance under submerged conditions.'
-date: 2024-08-27
+date: 2023-08-27
 venue: 'Solar Energy Materials and Solar Cells'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0927024824001234'
