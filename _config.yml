@@ -24,17 +24,17 @@ author:
   avatar           : "zhaoyulou.png"
   name             : "Zhaoyu Lou"
   pronouns         : # example: "she/her"  
-  bio              : "Wuhan University"
-  location         : "Wuhan China"
-  employer         : #"Wuhan University"
+  bio              : "PhD Student, EE, CUHK"
+  location         : "Hong Kong China"
+  employer         : #"The Chinese University of Hong Kong"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhaoyulou@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
 
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : # "https://orcid.org/0009-0006-4527-9676"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
