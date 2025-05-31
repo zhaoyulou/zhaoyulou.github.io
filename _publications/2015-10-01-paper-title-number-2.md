@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-08-27-perovskite-thermoelectric-tandem-devices
 excerpt: 'This paper explores the potential of tandem devices combining perovskite solar cells with thermoelectric materials to enhance energy conversion efficiency.'
-date: 2024-08-27
+date: 2025-08-27
 venue: 'Sustainable Energy & Fuels'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
