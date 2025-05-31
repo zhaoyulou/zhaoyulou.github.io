@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, this is Zhaoyu Lou, a PhD candidate and HKPFS winner at The Chinese University of Hong Kong under Dr. **Martin Stolterfoht**. And I had my bachelor in Physics Department at Wuhan University, began my journey in perovskite photovoltaic under guidance of Dr. **Zhiping Wang**. You could find some of my notes at [Xiaohongshu](https://www.xiaohongshu.com/user/profile/6364b218000000001f01a85e).
+Hello, this is Zhaoyu Lou, a PhD candidate and HKPFS Laureate at The Chinese University of Hong Kong under Dr. **Martin Stolterfoht**. And I had my bachelor in Physics Department at Wuhan University, began my journey in perovskite photovoltaic under guidance of Dr. **Zhiping Wang**. You could find some of my notes at [Xiaohongshu](https://www.xiaohongshu.com/user/profile/6364b218000000001f01a85e).
 
 Research Interests
 ======
