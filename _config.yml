@@ -24,17 +24,18 @@ author:
   avatar           : "zhaoyulou.png"
   name             : "Zhaoyu Lou"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student, EE, CUHK"
+  bio              : "HKPFS, EE, CUHK"
   location         : "Hong Kong China"
   employer         : #"The Chinese University of Hong Kong"
   uri              : # URL
-  email            : "zhaoyulou@outlook.com" 
+  email            : "zhaoyulou@link.cuhk.edu.hk"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
 
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0006-4527-9676"
+  google_scholar   : "https://scholar.google.com/citations?user=LSWFvNMAAAAJ&hl=en&oi=ao"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
